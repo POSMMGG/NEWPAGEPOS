@@ -1,1 +1,1 @@
-{"test":"20221115","main_api":"https://twodexcelapi-default-rtdb.asia-southeast1.firebasedatabase.app/.json","api":"https://pastebin.com/raw/gBWCAjKq","version":"1","data":"","link":""}
+{"test":"20231115","main_api":"https://twodexcelapi-default-rtdb.asia-southeast1.firebasedatabase.app/.json","api":"https://pastebin.com/raw/gBWCAjKq","version":"1","data":"","link":""}
